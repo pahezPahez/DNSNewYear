@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DNSNewYear/static/css/main.c4f89d42.css",
+    "main.js": "/DNSNewYear/static/js/main.f27c9ffa.js",
+    "static/media/snejki.svg": "/DNSNewYear/static/media/snejki.8e6f90a48f2f635f2f7c.svg",
+    "static/media/Inter-VariableFont_opsz,wght.ttf": "/DNSNewYear/static/media/Inter-VariableFont_opsz,wght.e05c5f3d1fa6a3893d84.ttf",
+    "static/media/ball-big.svg": "/DNSNewYear/static/media/ball-big.783e5ed3477c0c4f4a511ee2b428f8d0.svg",
+    "static/media/ball-small.svg": "/DNSNewYear/static/media/ball-small.a0a69d4d8ea5846ee1f83fdb32652be0.svg",
+    "static/media/gift.svg": "/DNSNewYear/static/media/gift.04ddc5b8a90f51c221beac6f3a0542ee.svg",
+    "static/media/Vk.svg": "/DNSNewYear/static/media/Vk.16974d6558eed91d0723b81afe82b9a1.svg",
+    "static/media/Youtube.svg": "/DNSNewYear/static/media/Youtube.22e3ab191a719e2455e8ecc41c22ec5f.svg",
+    "index.html": "/DNSNewYear/index.html",
+    "static/media/Arrow 1.svg": "/DNSNewYear/static/media/Arrow 1.0158197667d5ca8d18ffd8dab44d94ba.svg",
+    "static/media/Arrow 2.svg": "/DNSNewYear/static/media/Arrow 2.b732ae773ab64b6e3eae4122e12a25fd.svg",
+    "main.c4f89d42.css.map": "/DNSNewYear/static/css/main.c4f89d42.css.map",
+    "main.f27c9ffa.js.map": "/DNSNewYear/static/js/main.f27c9ffa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4f89d42.css",
+    "static/js/main.f27c9ffa.js"
+  ]
+}
